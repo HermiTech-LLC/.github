@@ -34,7 +34,7 @@ At HermitTech, we're all about transforming convoluted ideas into tangible innov
 
 [2. Robotics Simulation Frameworks](https://github.com/LoQiseaking69/SephsBIOME)
 
-[3. Data Visualization Tools](https://github.com/HermitTech-LLC/DataViz)
+[3. Data Visualization Tools](https://github.com/LoQiseaking69/Jacobian-calculator)
 
 *Discover more in our repositories...*
 
