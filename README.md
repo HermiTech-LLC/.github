@@ -4,8 +4,6 @@
   <img src="https://github.com/HermiTech-LLC/.github/blob/main/HTLLC.PNG" alt="HermitTech Innovations">
 </p>
 
-If you're on mobile 📲 you might need a desktop 💻 and internet 🌐 to fully immerse in the wonders of our tech universe... 🔭🌌
-
 No one explicitly says it... but we sense the excitement in the air as minds navigate the enigmatic expanse of our creations.
 
 We're steering through the complexities of AI and robotics, guided by our data science roots, breaking down high-concept tech to its core. At HermitTech, we're all about transforming convoluted ideas into tangible innovations 🚀.
