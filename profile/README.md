@@ -30,7 +30,7 @@ At HermitTech, we're all about transforming convoluted ideas into tangible innov
 
 
 ## Select Projects:
-[1. Quantum Computational Models](https://github.com/HermitTech-LLC/QuantumComputing)
+[1. Quantum Computational Models](https://github.com/LoQiseaking69/QHO)
 
 [2. Robotics Simulation Frameworks](https://github.com/LoQiseaking69/SephsBIOME)
 
