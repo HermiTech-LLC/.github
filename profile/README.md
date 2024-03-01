@@ -28,9 +28,6 @@ At HermitTech, we're all about transforming convoluted ideas into tangible innov
   <img src="https://github.com/LoQiseaking69/SephsBIOME/blob/master/Docs/Misc/IMG_7130.png" alt="Seph's BIOME - HermitTech">
 </p>
 
-⭐️ [SEPHaROSAi – Leading Python Initiative](https://github.com/HermitTech-LLC/SEPHaROSAi)
-
-🧠 [GenESys – Evolutionary Computation Framework](https://github.com/HermitTech-LLC/GenESys)
 
 ## Select Projects:
 [1. Quantum Computational Models](https://github.com/HermitTech-LLC/QuantumComputing)
