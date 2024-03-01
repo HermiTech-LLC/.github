@@ -53,9 +53,6 @@ At HermitTech, we're all about transforming convoluted ideas into tangible innov
 
 We invite those experienced in supervised and reinforcement learning models or multimodal systems to contribute to enhancing our [Evolutionary Model](https://github.com/HermitTech-LLC/YourModelLink). 
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=HermitTech-LLC&show_icons=true&theme=tokyonight" alt="HermitTech-LLC's GitHub Stats" />
-</p>
 
 ## Connect With Us
 📫 **Connect on LinkedIn:**
