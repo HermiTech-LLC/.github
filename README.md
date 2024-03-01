@@ -1,7 +1,7 @@
 # Welcome to HermitTech-LLC's Hub of Technological Exploration!
 
 <p align="center">
-  <img src="https://hermitech.org/logo.png" alt="HermitTech Innovations">
+  <img src="https://github.com/HermiTech-LLC/.github/blob/main/HTLLC.PNG" alt="HermitTech Innovations">
 </p>
 
 If you're on mobile 📲 you might need a desktop 💻 and internet 🌐 to fully immerse in the wonders of our tech universe... 🔭🌌
