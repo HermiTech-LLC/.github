@@ -8,7 +8,7 @@ We, as in the LLC HermiTech and I, simply wish to operate in the space where sci
 
 No one explicitly says it... but we sense the excitement in the air as minds navigate the enigmatic expanse of our creations. ours and yours😎🤝
 
-We're steering through the complexities of AI and robotics, guided by our data science roots, breaking down high-concept tech to its core. exploring quantum behaviors in the complex plane via programming, experimentation with the complexities of set theory and infinity; and, its intersection with intriqueing gemotric representations, or fractal art... the benefits of generic programming for hyperparameter tuning of different custom and RL models for robotics/automation and various use cases.
+We're steering through the complexities of AI and robotics, guided by our data science roots, breaking down high-concept tech to its core. exploring quantum behaviors in the complex plane via programming, experimentation with the complexities of set theory and infinity; and, its intersection with intriqueing gemotric representations, or fractal art... the benefits of genetic programming for hyperparameter tuning of different custom and RL models for robotics/automation and various use cases.
 
 At HermitTech, we're all about transforming convoluted ideas into tangible innovations 🚀.
 
