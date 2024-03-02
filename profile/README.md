@@ -51,7 +51,7 @@ At HermitTech, we're all about transforming convoluted ideas into tangible innov
 ## Collaborations and Insights 
 - Keen on collaborating to create transformative models and network architectures.
 
-We invite those experienced in supervised and reinforcement learning models or multimodal systems to contribute to enhancing our [Evolutionary Model](https://github.com/LoQiseaking69/SM2).
+We invite those experienced in supervised and reinforcement learning models or multimodal systems to contribute to enhancing our [Evolutionary Model](https://github.com/LoQiseaking69/SephsBIOME/tree/master/src/Sephs_GA).
 
 
 ## Connect With Us
