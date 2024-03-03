@@ -25,7 +25,7 @@ At HermitTech, we're all about transforming convoluted ideas into tangible innov
 - Perfecting Jupyter notebooks for cutting-edge data science applications
 
 <p align="center">
-  <img src="https://github.com/LoQiseaking69/SephsBIOME/blob/master/Docs/Misc/IMG_7130.png" alt="Seph's BIOME - HermitTech">
+  <img src="https://github.com/LoQiseaking69/SM2/blob/main/Sm2.png" alt="Seph's BIOME - HermitTech">
 </p>
 
 
