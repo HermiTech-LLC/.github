@@ -58,7 +58,7 @@ We invite those experienced in supervised and reinforcement learning models or m
 📫 **Connect on LinkedIn:**
 
 <p align="left">
-  <a href="https://www.linkedin.com/company/hermitech-llc" target="blank">
+  <a href="https://www.linkedin.com/groups/12992982" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-HermitTech--LLC-blue?style=for-the-badge&logo=linkedin" alt="HermitTech-LLC LinkedIn" />
   </a>
 </p>
