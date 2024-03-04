@@ -8,9 +8,9 @@
 
 We, as in the LLC HermiTech and I, simply wish to operate in the space where scientific exploration and innovative practical devolpment of scientific software meet as a synthesis, for sustained evolution of learning and discovery... 
 
-No one explicitly says it... but we sense the excitement in the air as minds navigate the enigmatic expanse of our creations. ours and yours😎🤝
+No one explicitly says it... but we sense the excitement in the air as minds navigate the enigmatic expanse of our creations; ours, and yours😎🤝
 
-We're steering through the complexities of AI and robotics, guided by our data science roots, breaking down high-concept tech to its core. exploring quantum behaviors in the complex plane via programming, experimentation with the complexities of set theory and infinity; and, its intersection with intriqueing gemotric representations, or fractal art... the benefits of genetic programming for hyperparameter tuning of different custom and RL models for robotics/automation and various use cases.
+We're steering through the complexities of AI and robotics, guided by our data science roots, breaking down high-concept tech to its core. exploring quantum behaviors in the complex plane via programming, experimentation with the complexities of set theory and infinity; and, its intersection with intriqueing gemotric representations, or fractal art... the benefits of genetic programming for hyperparameter tuning of different custom and deep and RL models for robotics/automation and various use cases to any end, that reaches for  scalable flexability and exploration in science and robotics development.
 
 At HermitTech, we're all about transforming convoluted ideas into tangible innovations 🚀.
 
