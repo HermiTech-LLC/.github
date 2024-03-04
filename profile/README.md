@@ -41,8 +41,9 @@ At HermitTech, we're all about transforming convoluted ideas into tangible innov
 *Discover more in our repositories...*
 
 ## Technologies & Tools
-![](https://img.shields.io/badge/Technology-Tool-green?style=for-the-badge&logo=Technology)
-![](https://img.shields.io/badge/Technology-Tool-blue?style=for-the-badge&logo=Technology)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
 <!-- More badges as per your tech stack -->
 
 ## Learning and Development
