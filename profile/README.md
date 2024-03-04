@@ -57,11 +57,6 @@ We invite those experienced in supervised and reinforcement learning models or m
 ## Connect With Us
 📫 **Connect on LinkedIn:**
 
-<p align="left">
-  <a href="https://www.linkedin.com/groups/12992982" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-HermitTech--LLC-blue?style=for-the-badge&logo=linkedin" alt="HermitTech-LLC LinkedIn" />
-  </a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HermiTech%20LLC-blue?style=for-the-badge&logo=linkedin)](https://github.com/HermiTech/README/blob/main/IMG_7664.jpeg?raw=true)
 Join us in forging new paths within the vast landscape of AI and beyond. Dive into our repositories and be part of the narrative that shapes the future of technology.
 
