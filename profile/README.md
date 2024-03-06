@@ -44,7 +44,7 @@ At HermitTech, we're all about transforming convoluted ideas into tangible innov
 
 [![Technology-Python](https://img.shields.io/badge/Technology-Python-green?style=for-the-badge&logo=python)](https://www.python.org)
 [![Technology-Rust](https://img.shields.io/badge/Technology-Rust-blue?style=for-the-badge&logo=rust)](https://www.rust-lang.org)
-[![Technology-GitBash](https://img.shields.io/badge/Technology-GitBash-black?style=for-the-badge&logo=git)](https://gitforwindows.org/)
+[![Tool-GitBash](https://img.shields.io/badge/Technology-GitBash-black?style=for-the-badge&logo=git)](https://gitforwindows.org/)
 [![Technology-ROS](https://img.shields.io/badge/Technology-ROS-red?style=for-the-badge&logo=ros)](https://www.ros.org/)
 <!-- More badges as per your tech stack -->
 
