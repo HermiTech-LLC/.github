@@ -6,7 +6,7 @@
   <img src="https://github.com/HermiTech-LLC/.github/blob/main/HTLLC.PNG" alt="HermitTech Innovations">
 </p>
 
-Welcome! We; as in the LLC HermiTech and Myself, [Ant O, Greene,](https://github.com/LoQiseaking69) simply wish to operate in the space where scientific exploration and innovative practical devolpment of scientific software meet as a synthesis, ❓💡for sustained evolution of learning (as one would expect) and discovery in various fields (as one would hope)... 
+Welcome! Allow me to introduce the Hub. We; as in the LLC HermiTech and Myself, [Ant O, Greene,](https://github.com/LoQiseaking69) simply wish to operate in the space where scientific exploration and innovative practical devolpment of scientific software meet as a synthesis, ❓💡for sustained evolution of learning (as one would expect) and discovery in various fields (as one would hope)... 
 
 No one explicitly says it... but we sense the excitement in the air as minds navigate the enigmatic expanse of our creations; ours, and yours😎🤝
 
