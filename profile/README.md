@@ -47,8 +47,10 @@ At HermitTech, we're all about transforming convoluted ideas into tangible innov
 <!-- More badges as per your tech stack -->
 
 ## Learning and Development
-![](https://img.shields.io/badge/Learning-Rust-orange?style=for-the-badge&logo=rust)
-![](https://img.shields.io/badge/Learning-QuantumComputing-purple?style=for-the-badge&logo=quantum)
+[![Learning Rust](https://img.shields.io/badge/Learning-Rust-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/learn)
+
+[![Learning Quantum Computing](https://img.shields.io/badge/Learning-QuantumComputing-purple?style=for-the-badge&logo=quantum)](https://github.com/Qiskit)
+
 <!-- More badges for learning goals -->
 
 ## Collaborations and Insights 
