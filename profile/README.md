@@ -24,7 +24,7 @@ At HermitTech, we're all about transforming convoluted ideas into tangible innov
 - Frontier Research in Quantum Computing
 
 ## Flagship Ventures
-- Perfecting Jupyter notebooks for cutting-edge data science applications
+- Perfecting Jupyter notebooks for cutting-edge data science applications in Robotics and Automation, ML applications and User Friendly engineering tools that bridge the gap between complex innovations and creative engineering and research development.
 
 <p align="center">
   <img src="https://github.com/LoQiseaking69/SM2/blob/main/Sm2.png" alt="Seph's BIOME - HermitTech">
