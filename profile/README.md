@@ -10,7 +10,7 @@ Welcome! Allow me to introduce the Hub. We; as in the LLC HermiTech and Myself, 
 
 No one explicitly says it... but we sense the excitement in the air as minds navigate the enigmatic expanse of our creations; ours, and yours😎🤝
 
-We're steering through the complexities of AI and robotics, guided by our data science roots, breaking down high-concept tech to its core. We're exploring quantum behaviors in the complex plane via programming, experimentation with the complexities of set theory and infinity; and, its intersection with intriqueing gemotric representations... fractal art... for beauty and exploration, the benefits of genetic programming for hyperparameter tuning of different custom deep and RL models for robotics/automation and for various use cases to any end... that reach for scalable flexability and exploration in science and robotics development.
+We're steering through the complexities of AI and robotics, guided by our data science roots, breaking down high-concept tech to its core. We're exploring quantum behaviors in the complex plane via programming, experimentation with the complexities of set theory and infinity; and, its intersection with intriqueing gemotric representations... fractal art... for beauty and exploration, the benefits of genetic programming for hyperparameter tuning of different custom deep and RL models applicable towards robotics/automation and for various use cases to any end... that reach for scalable flexability and exploration in science and robotics development.
 
 At HermitTech, we're all about transforming convoluted ideas into tangible innovations 🚀.
 
