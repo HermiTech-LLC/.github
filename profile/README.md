@@ -38,6 +38,8 @@ At HermitTech, we're all about transforming convoluted ideas into tangible innov
 
 [3. Data Visualization Tools](https://github.com/HermiTech-LLC/QHO)
 
+[4. Physics Research](https://github.com/HermiTech-LLC/WB-Viz)
+
 *Discover more in our repositories...*
 
 ## Technologies & Tools
