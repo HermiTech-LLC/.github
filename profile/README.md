@@ -40,8 +40,7 @@ At HermitTech, we're all about transforming convoluted ideas into tangible innov
 
 [4. Physics Research](https://github.com/HermiTech-LLC/WB-Viz)
 
-[5. 👽Hybrid Esotericism✍️👁️- Device-Hosted "GLUE" 
-Language Runtime] (https://github.com/HermiTech-LLC/Glue)
+[5. 👽Hybrid Esotericism✍️👁️- Device-Hosted "GLUE" Language Runtime](https://github.com/HermiTech-LLC/Glue)
 
 *Discover more in our repositories...*
 
