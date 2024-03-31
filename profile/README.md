@@ -40,6 +40,8 @@ At HermitTech, we're all about transforming convoluted ideas into tangible innov
 
 [4. Physics Research](https://github.com/HermiTech-LLC/WB-Viz)
 
+[5. 👽Hybrid Esotericism✍️👁️-](https://github.com/HermiTech-LLC/Glue)
+
 *Discover more in our repositories...*
 
 ## Technologies & Tools
