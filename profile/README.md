@@ -30,15 +30,13 @@ We're committed to transforming intricate ideas into tangible innovations 🚀, 
 
 
 ## Select Projects:
-[1. Quantum Computational Models](https://github.com/HermiTech-LLC/QSys-Design)
+- [**GLUE - Genetic Language for Unsupervised Evolution**](https://github.com/HermiTech-LLC/Glue): This project represents a revolutionary blend of genetic algorithms and deep learning, advancing autonomous evolution in robotics and AI.
 
-[2. Robotics Simulation Frameworks](https://github.com/HermiTech-LLC/SephsBIOME)
+- [**QSys Design**](https://github.com/HermiTech-LLC/QSys-Design): A pioneering Python application that merges quantum computing with robotics, offering an intuitive interface for quantum circuit design and simulation.
 
-[3. Data Visualization Tools](https://github.com/HermiTech-LLC/QHO)
+- [**CircExplorer**](https://github.com/HermiTech-LLC/CircExplorer): Enabling saving and loading of circuit diagrams, offering a platform for educational and hobbyist electronic simulations.
 
-[4. Physics Research](https://github.com/HermiTech-LLC/WB-Viz)
-
-[5. 👽Hybrid Esotericism✍️👁️- Device-Hosted "GLUE" Language Runtime](https://github.com/HermiTech-LLC/Glue)
+- [**DreamAssist**](https://github.com/HermiTech-LLC/DreamAssist): Currently under development, DreamAssist exemplifies HermiTech's commitment to cutting-edge innovation, with more details forthcoming to highlight its aims and technological advancements.
 
 *Discover more in our repositories...*
 
