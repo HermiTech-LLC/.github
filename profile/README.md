@@ -71,4 +71,3 @@ We invite those experienced in supervised and reinforcement learning models or m
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HermiTech%20LLC-blue?style=for-the-badge&logo=linkedin)](https://github.com/HermiTech-LLC/.github/blob/main/IMG_7664.jpeg)
 
 Join us in forging new paths within the vast landscape of AI and beyond. Dive into our repositories and be part of the narrative that shapes the future of technology.
-
