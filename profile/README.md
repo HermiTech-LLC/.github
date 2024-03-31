@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/HermiTech-LLC/.github/blob/main/HTLLC.PNG" alt="HermitTech Innovations">
+  <img src="https://github.com/HermiTech-LLC/.github/blob/main/IMG_7656.PNG?raw=true"alt="HermitTech Innovations">
 </p>
 
 Welcome to the Hub at HermiTech Holdings, where scientific exploration meets innovative development in scientific software. At the core of our operations is the synthesis of learning and discovery across various fields, powered by the excitement of navigating through the enigmatic expanse of technology.
