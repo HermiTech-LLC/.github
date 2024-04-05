@@ -16,10 +16,12 @@ We're committed to transforming intricate ideas into tangible innovations 🚀, 
 — charting a course of ambitious projects. Whether these concepts resonate or intrigue, they form the tapestry of our collective journey.
 
 ## Our Passions
-- Advanced Neural Network Models
-- Pioneering in AGI (Artificial General Intelligence)
-- Innovative Multimodal Systems
-- Frontier Research in Quantum Computing
+- interoperable Frameworks ⚙️🐍
+- concurrent system models🃏
+- general computer science & engineering
+- Data Visualization Tools
+- AGI (Artificial General Intelligence)
+- Quantum computing innovations and robotics
 
 ## Flagship Ventures
 - Perfecting Jupyter notebooks for cutting-edge data science applications in Robotics and Automation, ML applications and User Friendly engineering tools that bridge the gap between complex innovations and creative engineering / research development.
