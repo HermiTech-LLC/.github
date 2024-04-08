@@ -40,7 +40,7 @@ We're committed to transforming intricate ideas into tangible innovations 🚀, 
 
 - [**CircExplorer**](https://github.com/HermiTech-LLC/CircExplorer): Enabling saving and loading of circuit diagrams, offering a platform for educational and hobbyist electronic simulations.
 
-- [**DreamAssist**](https://github.com/HermiTech-LLC/DreamAssist): Currently planned for development as the dedicated G.L.U.E. IDE; DreamAssist exemplifies HermiTech's commitment to cutting-edge innovation, with more details forthcoming to highlight its aims and technological advancements.
+- [**DreamAssist - for G.L.U.E. Development.**](https://github.com/HermiTech-LLC/DreamAssist): Currently planned for development as the dedicated G.L.U.E. IDE; DreamAssist exemplifies HermiTech's commitment to cutting-edge innovation, with more details forthcoming to highlight its aims and technological advancements.
 
 *Discover more in our repositories...*
 
