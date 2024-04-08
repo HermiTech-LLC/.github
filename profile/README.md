@@ -34,7 +34,7 @@ We're committed to transforming intricate ideas into tangible innovations 🚀, 
 ## Select Projects:
 - [**GLUE - Genetic Language for Unsupervised Evolution**](https://github.com/HermiTech-LLC/Glue): This project represents a revolutionary blend of genetic algorithms and deep learning, advancing autonomous evolution in robotics and AI.
 
-- [**Hehners_Math- foundation for a Glue Native lib](https://github.com/HermiTech-LLC/Hehners_math): A Rust-based numerical library integrating Hehner’s Algebra for exact, error-minimized calculations. Offers precise arithmetic operations (addition, subtraction, multiplication, division) with uncertainty tracking and advanced symbolic number representation.
+- [**Hehners_Math - foundation for a Glue Native lib**](https://github.com/HermiTech-LLC/Hehners_math): A Rust-based numerical library integrating Hehner’s Algebra for exact, error-minimized calculations. Offers precise arithmetic operations (addition, subtraction, multiplication, division) with uncertainty tracking and advanced symbolic number representation.
 
 - [**QSys Design**](https://github.com/HermiTech-LLC/QSys-Design): A pioneering Python application that merges quantum computing with robotics, offering an intuitive interface for quantum circuit design and simulation.
 
