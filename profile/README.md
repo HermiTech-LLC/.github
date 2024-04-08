@@ -23,9 +23,6 @@ We're committed to transforming intricate ideas into tangible innovations 🚀, 
 - AGI (Artificial General Intelligence)
 - Quantum computing innovations and robotics
 
-## Flagship Ventures
-- Perfecting Jupyter notebooks for cutting-edge data science applications in Robotics and Automation, ML applications and User Friendly engineering tools that bridge the gap between complex innovations and creative engineering / research development.
-
 <p align="center">
   <img src="https://github.com/LoQiseaking69/SM2/blob/main/Sm2.png" alt="Seph's BIOME - HermitTech">
 </p>
