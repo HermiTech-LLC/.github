@@ -36,7 +36,7 @@ We're committed to transforming intricate ideas into tangible innovations 🚀, 
 
 - [**Hehners_Math - foundation for a Glue Native lib**](https://github.com/HermiTech-LLC/Hehners_math): A Rust-based numerical library integrating Hehner’s Algebra for exact, error-minimized calculations. Offers precise arithmetic operations (addition, subtraction, multiplication, division) with uncertainty tracking and advanced symbolic number representation.
 
-- [**QSys Design**](https://github.com/HermiTech-LLC/QSys-Design): A pioneering Python application that merges quantum computing with robotics, offering an intuitive interface for quantum circuit design and simulation.
+- [**QSys Design -User-friendly wxPython interface for quantum circuit design and simulation via Qiskit.**](https://github.com/HermiTech-LLC/QSys-Design): A pioneering Python application that merges quantum computing with robotics, offering an intuitive interface for quantum circuit design and simulation.
 
 - [**CircExplorer**](https://github.com/HermiTech-LLC/CircExplorer): Enabling saving and loading of circuit diagrams, offering a platform for educational and hobbyist electronic simulations.
 
