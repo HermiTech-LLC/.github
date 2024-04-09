@@ -34,7 +34,7 @@ We're committed to transforming intricate ideas into tangible innovations 🚀, 
 
 - [**CircExplorer**](https://github.com/HermiTech-LLC/CircExplorer): Enabling saving and loading of circuit diagrams, offering a platform for educational and hobbyist electronic simulations.
 
-- [**SephsBIOME an advanced system in the realm of artificial life simulations, machine learning, and evolutionary computation**](https://github.com/HermiTech-LLC/SephsBIOME)
+- [**SephsBIOME**](https://github.com/HermiTech-LLC/SephsBIOME): an advanced system in the realm of artificial life simulations, machine learning, and evolutionary computation
 
 *Discover more in our repositories...*
 
