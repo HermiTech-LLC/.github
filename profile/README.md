@@ -34,7 +34,7 @@ We're committed to transforming intricate ideas into tangible innovations 🚀, 
 
 - [**CircExplorer**](https://github.com/HermiTech-LLC/CircExplorer): Enabling saving and loading of circuit diagrams, offering a platform for educational and hobbyist electronic simulations.
 
-- [**DXanalysis**](https://github.com/HermiTech-LLC/DXanalysis): an advanced system in the realm of artificial life simulations, machine learning, and evolutionary computation
+- [**DXanalysis**](https://github.com/HermiTech-LLC/DXanalysis): DXing with Python & Rust integrates Python's data analysis prowess with Rust's signal processing efficiency for DXing radio waves
 
 *Discover more in our repositories...*
 
