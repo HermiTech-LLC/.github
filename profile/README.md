@@ -56,8 +56,6 @@ We're committed to transforming intricate ideas into tangible innovations 🚀, 
 ## Collaborations and Insights 
 - Keen on collaborating to create transformative models and network architectures.
 
-We invite those experienced in supervised and reinforcement learning models or multimodal systems to contribute to enhancing our [Evolutionary Model](https://github.com/HermiTech-LLC/SephsBIOME/tree/master/src/Sephs_GA).
-
 
 ## Connect With Us
 📫 **Connect on LinkedIn:**
