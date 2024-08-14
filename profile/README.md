@@ -30,6 +30,9 @@ We're committed to transforming intricate ideas into tangible innovations 🚀, 
 
 ## A Few Select Projects:
 
+- **[Morty](https://github.com/HermiTech-LLC/Morty)**: A bipedal humanoid control system using a Physics-Informed Neural Network (PINN) and Reinforcement Learning (RL) for stability and manipulation tasks. Integrated with ROS for real-time control and FPGA for hardware acceleration, Morty is ideal for research, education, and practical applications in dynamic environments.
+
+
 - **[HermiSim-DynamicsViewer](https://github.com/HermiTech-LLC/HermiSim-DynamicsViewer)**: A robotics simulation suite designed for loading URDF/XML files, rendering 3D environments, and running physics-based simulations using PyBullet. It features 3D visualization, sensor data simulation, and full control over simulations. Built with PyQt and modular in design, it is ideal for robotics development and testing using PyBullet for realistic physics interactions.
 
 - **[NeuronForge](https://github.com/HermiTech-LLC/NeuronForge)**: An advanced deep learning framework designed to facilitate the creation, training, and deployment of neural networks. NeuronForge is optimized for high-performance computing environments and integrates seamlessly with GPU acceleration, making it suitable for large-scale neural network projects, including reinforcement learning and other complex AI tasks.
