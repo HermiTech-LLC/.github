@@ -16,7 +16,7 @@ We're committed to transforming intricate ideas into tangible innovations 🚀, 
 — charting a course of ambitious projects. Whether these concepts resonate or intrigue, they form the tapestry of our collective journey.
 
 ## Our Passions
-- interoperable Language Frameworks ⚙️🐍
+- interpolatable Language Frameworks ⚙️🐍
 - concurrent system models🃏
 - general computer science & engineering
 - Data Visualization Tools
