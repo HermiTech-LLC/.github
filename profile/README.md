@@ -34,8 +34,6 @@ We're committed to transforming intricate ideas into tangible innovations 🚀, 
 
 - **[NeuronForge](https://github.com/HermiTech-LLC/NeuronForge)**: An advanced deep learning framework designed to facilitate the creation, training, and deployment of neural networks. NeuronForge is optimized for high-performance computing environments and integrates seamlessly with GPU acceleration, making it suitable for large-scale neural network projects, including reinforcement learning and other complex AI tasks.
 
-- **[Morty](https://github.com/HermiTech-LLC/Morty)**: A bipedal humanoid control system using a Physics-Informed Neural Network (PINN) and Reinforcement Learning (RL) for stability and manipulation tasks. Integrated with ROS for real-time control and FPGA for hardware acceleration, Morty is ideal for research, education, and practical applications in dynamic environments.
-
 - **[TulpaLang](https://github.com/HermiTech-LLC/TulpaLang)**: A new programming language built off Rust but based on Python syntax. TulpaLang is designed for simplicity and power, combining Python's ease of use with Rust's performance and safety features. It's ideal for developers looking for a language that balances readability and high performance.
 *Discover more in our repositories...*
 
