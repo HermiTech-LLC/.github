@@ -6,9 +6,9 @@
   <img src="https://github.com/HermiTech-LLC/.github/blob/main/IMG_7656.PNG?raw=true"alt="HermitTech Innovations">
 </p>
 
-## Welcome to HermiTech Holdings
+## Welcome to the Hub at **HermiTech Holdings**
 
-Welcome to the Hub at **HermiTech Holdings**, where scientific exploration meets innovative development in scientific software. At the core of our operations is the synthesis of learning and discovery across various fields, powered by the excitement of navigating through the enigmatic expanse of technology.
+ Where scientific exploration meets innovative development in scientific software. At the core of our operations is the synthesis of learning and discovery across various fields, powered by the excitement of navigating through the enigmatic expanse of technology.
 
 At HermiTech, we are delving into AI and robotics, underpinned by our data science roots. Our exploration includes quantum behaviors in programming, set theory, fractal art, and the use of genetic programming for hyperparameter tuning in robotics and automation. Our endeavors are aimed at achieving scalable flexibility and exploration in science and robotics development.
 
