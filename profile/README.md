@@ -6,12 +6,19 @@
   <img src="https://github.com/HermiTech-LLC/.github/blob/main/IMG_7656.PNG?raw=true"alt="HermitTech Innovations">
 </p>
 
-Welcome to the Hub at HermiTech Holdings, where scientific exploration meets innovative development in scientific software. At the core of our operations is the synthesis of learning and discovery across various fields, powered by the excitement of navigating through the enigmatic expanse of technology.
+## Welcome to HermiTech Holdings
+
+Welcome to the Hub at **HermiTech Holdings**, where scientific exploration meets innovative development in scientific software. At the core of our operations is the synthesis of learning and discovery across various fields, powered by the excitement of navigating through the enigmatic expanse of technology.
 
 At HermiTech, we are delving into AI and robotics, underpinned by our data science roots. Our exploration includes quantum behaviors in programming, set theory, fractal art, and the use of genetic programming for hyperparameter tuning in robotics and automation. Our endeavors are aimed at achieving scalable flexibility and exploration in science and robotics development.
 
-We're committed to transforming intricate ideas into tangible innovations 🚀, embarking on ambitious projects that resonate and intrigue, and form the foundation of our collective journey.
+We're committed to transforming intricate ideas into tangible innovations, embarking on ambitious projects that resonate and intrigue, and form the foundation of our collective journey.
 
+---
+
+**Contact & Contributions**  
+GitHub: [@LoQiseaking69](https://github.com/LoQiseaking69)  
+Email: [REEL0112358.13@proton.me](mailto:REEL0112358.13@proton.me)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HermitTech-LLC&label=Visitors&color=blueviolet&style=flat-square" alt="HermitTech-LLC" /> </p>
 — charting a course of ambitious projects. Whether these concepts resonate or intrigue, they form the tapestry of our collective journey.
 
